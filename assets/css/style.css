@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Cairo";
   color: #444444;
 }
 
@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Jost", sans-serif;
+  font-family: "Cairo";
 }
 
 /*--------------------------------------------------------------
@@ -395,7 +395,7 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 36px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
@@ -408,7 +408,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Jost", sans-serif;
+  font-family: "Cairo";
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -624,7 +624,7 @@ section {
 }
 
 .about .content .btn-learn-more {
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo";
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -697,7 +697,7 @@ section {
 .why-us .accordion-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo";
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -809,7 +809,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   color: #37517e;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo";
 }
 
 .skills .content ul {
@@ -844,7 +844,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo";
   color: #37517e;
 }
 
@@ -933,7 +933,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Jost", sans-serif;
+font-family: "Cairo";
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -984,7 +984,7 @@ section {
   transition: all 0.3s;
   padding: 8px 20px;
   border-radius: 50px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo";
 }
 
 .portfolio #portfolio-flters li:hover,
@@ -1249,7 +1249,7 @@ section {
   font-size: 48px;
   color: #37517e;
   font-weight: 400;
-  font-family: "Jost", sans-serif;
+font-family: "Cairo";
   margin-bottom: 25px;
 }
 
@@ -1308,7 +1308,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 500;
-  font-family: "Jost", sans-serif;
+font-family: "Cairo";
   transition: 0.3s;
   border: 1px solid #47b2e4;
 }
@@ -1378,7 +1378,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cairo";
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1751,7 +1751,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Jost", sans-serif;
+font-family: "Cairo";
   color: #5e5e5e;
 }
 
